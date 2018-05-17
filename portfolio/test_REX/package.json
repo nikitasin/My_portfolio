@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/axZerk/gulp-starter-kit.git"
+    "url": "git+https://github.com/nikitasin/My_portfolio/tree/master/portfolio/test_REX"
   },
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
-  "license": "MIT",
+  "author": "Nikita Sin <nikitasin222@gmail.com>",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/axZerk/gulp-starter-kit/issues"
+    "url": "https://github.com/nikitasin/My_portfolio/tree/master/portfolio/test_REX"
   },
-  "homepage": "https://github.com/axZerk/gulp-starter-kit#readme",
+  "homepage": "https://github.com/nikitasin/My_portfolio/tree/master/portfolio",
   "devDependencies": {
     "autoprefixer": "^8.4.1",
     "babel-core": "^6.26.3",
