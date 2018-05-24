@@ -356,7 +356,7 @@ __________________________________________________________________
   margin-top: 57px;
   padding: 25px 100px 64px 0;
   background: #fff;
-  width: 400px;
+  width: 40%;
   position: absolute;
   z-index: 1;
 }
@@ -396,11 +396,15 @@ __________________________________________________________________
   left: 0;
 }
 
+.slidee > img {
+  width: 100%;
+}
+
 #name {
   font-family: 'Great Vibes', sans-serif;
   font-size: 25px;
   line-height: 40px;
-  margin: 567px 0 0 270px;
+  margin: 50% 0 0 14%;
   position: absolute;
   color: #888888;
 }
@@ -408,7 +412,7 @@ __________________________________________________________________
 .arrows {
   position: absolute;
   z-index: 99;
-  margin: -225px 0 0 383px;
+  margin: -12% 0 0 20%;
   width: 61.666667%;
   height: 100px;
 }
@@ -467,7 +471,7 @@ __________________________________________________________________
 }
 
 .block-gallery {
-  padding: 0 19.53125% 0 19.53125%;
+  padding: 0 19.53125% 5% 19.53125%;
 }
 
 #text_mini {
@@ -537,7 +541,6 @@ __________________________________________________________________
   color: white;
   background: #000000;
   padding: 10px 0;
-  height: 150px;
 }
 
 .modal__content,

@@ -44,8 +44,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="149" column="26" selection-start-line="149" selection-start-column="22" selection-end-line="149" selection-end-column="26" />
+            <state relative-caret-position="330">
+              <caret line="183" column="69" lean-forward="true" selection-start-line="183" selection-start-column="69" selection-end-line="183" selection-end-column="69" />
             </state>
           </provider>
         </entry>
@@ -53,8 +53,8 @@
       <file leaf-file-name="scss.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/scss/scss.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="518" column="22" lean-forward="true" selection-start-line="518" selection-start-column="22" selection-end-line="518" selection-end-column="22" />
+            <state relative-caret-position="194">
+              <caret line="344" column="24" selection-start-line="344" selection-start-column="24" selection-end-line="344" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -91,6 +91,7 @@
       <find>text_mini</find>
       <find>border</find>
       <find>&gt;a</find>
+      <find>#cap</find>
       <find>button</find>
     </findStrings>
   </component>
@@ -128,7 +129,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="709" />
@@ -215,15 +216,15 @@
       <updated>1526637097607</updated>
       <workItem from="1526637102418" duration="1700000" />
       <workItem from="1526642824861" duration="7429000" />
-      <workItem from="1527149234201" duration="4361000" />
+      <workItem from="1527149234201" duration="5928000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13490000" />
+    <option name="totallyTimeSpent" value="15057000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="709" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="709" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" order="2" side_tool="true" />
@@ -366,13 +367,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/html/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -380,17 +374,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/html/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/html/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="149" column="26" selection-start-line="149" selection-start-column="22" selection-end-line="149" selection-end-column="26" />
+        <state relative-caret-position="330">
+          <caret line="183" column="69" lean-forward="true" selection-start-line="183" selection-start-column="69" selection-end-line="183" selection-end-column="69" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scss/scss.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="518" column="22" lean-forward="true" selection-start-line="518" selection-start-column="22" selection-end-line="518" selection-end-column="22" />
+        <state relative-caret-position="194">
+          <caret line="344" column="24" selection-start-line="344" selection-start-column="24" selection-end-line="344" selection-end-column="24" />
         </state>
       </provider>
     </entry>

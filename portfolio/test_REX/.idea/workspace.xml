@@ -14,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="275">
@@ -41,10 +41,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scss.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="scss.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/scss/scss.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9150">
+            <state relative-caret-position="277">
               <caret line="610" selection-start-line="610" selection-end-line="610" />
             </state>
           </provider>
@@ -184,12 +184,12 @@
       <workItem from="1526554361527" duration="388000" />
       <workItem from="1526641441060" duration="237000" />
       <workItem from="1526642633630" duration="2682000" />
-      <workItem from="1527149227082" duration="589000" />
+      <workItem from="1527149227082" duration="591000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8736000" />
+    <option name="totallyTimeSpent" value="8738000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -416,7 +416,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scss/scss.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9150">
+        <state relative-caret-position="277">
           <caret line="610" selection-start-line="610" selection-end-line="610" />
         </state>
       </provider>
