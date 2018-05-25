@@ -2,6 +2,13 @@ header{
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-top: 1%;
+    font-size: 20px;
+  line-height: 22px;
+    background: #0ac4f9;
+}
+header>h1{
+ 
 }
 
 #wrapper{
@@ -29,4 +36,16 @@ header{
 
 a>img{
     width: 90px;   
+}
+
+a>img:hover{
+    width: 100px;
+
+}
+.box>div{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 1%;
+    height: 20%;
 }
