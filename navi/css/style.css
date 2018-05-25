@@ -22,9 +22,11 @@ header{
     padding: 1%;
     margin-top: 1%;
 }
+.box>a{
+    height: 150px;
+    overflow: hidden;
+}
 
 a>img{
     width: 90px;   
 }
-
-
